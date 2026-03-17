@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "785165686944",
+    "project_id": "indoor-positioning-75209",
+    "storage_bucket": "indoor-positioning-75209.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785165686944:android:22407a9d3eb6145e4ad1c5",
+        "android_client_info": {
+          "package_name": "com.indoorpositioning.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPO4iW-1h-N2TgWuQQRtdykoHV5ApME2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
